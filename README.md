@@ -1,3 +1,3 @@
 # htmlCourse
 
-https://www.learnit.nl/gratiscursus/html-en-css/2
+https://www.learnit.nl/gratiscursus/html-en-css/7
